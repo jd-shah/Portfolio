@@ -1,11 +1,11 @@
-# Jaydeep Shah
-## Portfolio
+# Github Classroom Issue Creator
 
-Hello, 
+I work as TA with Prof. Andrew King.
+Course is a programming intensive.
 
-  This repository would reflect some of my personal work.
-  My major work has been the Intellectual Property of the organization I have worked with.
-  
-  If you are recruiter, please contact me on my email-id mentioned in my resume for details of my work.
-  
-  Mean while I am working on to bring some of my work here in public domain.
+Starting Fall 2020 Prof wants to introduce the course on Github Classroom for multiple reasons.
+
+While setting up the assignments we realized that we cannot share "issues" in the repos that students clone from base repo.
+
+We can ofcourse create issue manually on the student repos. But doing it on so many students' repo would be a nightmare for TA's and Prof.
+So I have created a pyton script that uses GitHub API's to do it on a single button press.
